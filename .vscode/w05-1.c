@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    char name = 'p';         // ตัวอักษรตัวแรกของชื่อ
+    char name = 'P';         // ตัวอักษรตัวแรกของชื่อ
     int age = 18;            // อายุ
     float weight = 70.5;     // น้ำหนัก
 
